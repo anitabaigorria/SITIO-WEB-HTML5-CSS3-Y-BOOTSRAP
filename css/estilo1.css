@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* CSS MÓVILES */
+@media all and (max-width: 1024px){
+    #carouselExampleIndicators{
+        width: 95%;
+    }
+    #tab1{
+        width: 95%;
+    }
+    h1{
+        font-size: 50px;
+    }
+    article p{
+        display: none;
+    }
+}
+
+/* CSS PANTALLAS GRANDES */
+@media all and (min-width: 1024px){
+    #carouselExampleIndicators{
+        width: 75%;
+    }
+    #tab1{
+        width: 75%;
+    }
+    h1{
+        font-size: 90px;
+    }
+}
+
+body{
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+}
+
+@font-face {
+    font-family: MiFuente;
+    src: url(../fuentes/fuente-tlous.ttf);
+}
+
+h1 a,h2{
+    font-family: MiFuente !important;
+    font-weight: normal !important;
+}
+
+ul li{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer figure{
+    width: 30px;
+}
+
+footer img{
+    width: 90%;
+}
