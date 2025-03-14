@@ -31,4 +31,4 @@ Podés descargar el proyecto y visualizarlo localmente haciendo click en el arch
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.txt) para detalles
