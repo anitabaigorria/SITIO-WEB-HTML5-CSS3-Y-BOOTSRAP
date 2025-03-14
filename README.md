@@ -21,7 +21,7 @@ Por ejemplo: Visual Studio Code o Bloc de notas
 
 ## Vista en vivo 📦
 
-Podés descargar el proyecto y visualizarlo localmente haciendo click en el archivo **index.html** o haciendo click en el siguiente **[enlace]()**
+Podés descargar el proyecto y visualizarlo localmente haciendo click en el archivo **index.html** o haciendo click en el siguiente **[enlace](https://anitabaigorria.github.io/SITIO-WEB-HTML5-CSS3-Y-BOOTSRAP/)**
 
 
 ## Autor/es ✒️
