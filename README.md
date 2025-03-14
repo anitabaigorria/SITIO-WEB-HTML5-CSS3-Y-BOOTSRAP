@@ -18,6 +18,9 @@ Por ejemplo: Visual Studio Code o Bloc de notas
 
 * Descargar o linkear el CDN (Content Delivery Network) de Bootstrap provisto por su [sitio web](https://getbootstrap.esdocu.com/docs/5.3/getting-started/download/).
 
+```
+También puedes simplemente linkearla al descargar el repositorio, la carpeta lleva el nombre de "bootstrap-5.3.3-dist"
+```
 
 ## Vista en vivo 📦
 
